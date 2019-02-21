@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Mohammed\AndroidStudioProjects\UIAutoComplete\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\jars\libs\internal_impl-23.3.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="4da5a4d697d32497c6f85567a5112e62fdfd0676">
+        <dex dex="C:\Users\Mohammed\AndroidStudioProjects\UIAutoComplete\app\build\intermediates\pre-dexed\debug\internal_impl-23.3.0_1ced104eaf9a85fc7dd4f9f331af760f43531ee5.jar" />
+    </item>
+    <item
+        jar="C:\Users\Mohammed\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.3.0\support-annotations-23.3.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="db7791d75a07fef9844d06236c1c59ba7bf6997c">
+        <dex dex="C:\Users\Mohammed\AndroidStudioProjects\UIAutoComplete\app\build\intermediates\pre-dexed\debug\support-annotations-23.3.0_6892039d7fa290430235ae2e415a327e1dfb97e5.jar" />
+    </item>
+    <item
+        jar="C:\Users\Mohammed\AndroidStudioProjects\UIAutoComplete\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.3.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="1b8e03daaa43fb0a4cd57e378167c2fd70454c1e">
+        <dex dex="C:\Users\Mohammed\AndroidStudioProjects\UIAutoComplete\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.3.0_326864e29ae760da3fc3cca137bd6233bf371f0d.jar" />
+    </item>
+    <item
+        jar="C:\Users\Mohammed\AndroidStudioProjects\UIAutoComplete\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="8a034dd16c0dfd75fe86c52c2cd581592acc684a">
+        <dex dex="C:\Users\Mohammed\AndroidStudioProjects\UIAutoComplete\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.3.0_c5751bcf4895fd4d096a577d5943e32ad0b4def9.jar" />
+    </item>
+    <item
+        jar="C:\Users\Mohammed\AndroidStudioProjects\UIAutoComplete\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="af7994e818346c607b912dd325778cb71ad09153">
+        <dex dex="C:\Users\Mohammed\AndroidStudioProjects\UIAutoComplete\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_af59439c71eec98670919c82778c692c6e4b4be6.jar" />
+    </item>
+    <item
+        jar="C:\Users\Mohammed\AndroidStudioProjects\UIAutoComplete\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.3.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="23be6993826b8fd88bbc8d14928bb3b8960d3d4e">
+        <dex dex="C:\Users\Mohammed\AndroidStudioProjects\UIAutoComplete\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-23.3.0_26aceef8ac83ffa05be30f3ad7d2324084a2064b.jar" />
+    </item>
+    <item
+        jar="C:\Users\Mohammed\AndroidStudioProjects\UIAutoComplete\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="a6bf6ba486b91e2070a5f2cced36721b840b8d36">
+        <dex dex="C:\Users\Mohammed\AndroidStudioProjects\UIAutoComplete\app\build\intermediates\pre-dexed\debug\instant-run_f03a6d2abe7a72769d90893a678a33bd32b0bb54.jar" />
+    </item>
+    <item
+        jar="C:\Users\Mohammed\AndroidStudioProjects\UIAutoComplete\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.3.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="a0b5d60246cd9d4f3f2443611b3b4c25265840b5">
+        <dex dex="C:\Users\Mohammed\AndroidStudioProjects\UIAutoComplete\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-23.3.0_4b8c2919404d9cfc3d6a049e27d036d232e977c0.jar" />
+    </item>
+
+</items>
